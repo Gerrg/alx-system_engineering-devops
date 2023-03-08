@@ -1,1 +1,1 @@
-pwd
+shell basics readme
